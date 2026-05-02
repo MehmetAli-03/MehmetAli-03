@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=MehmetAli-03.MehmetAli-03&countColor=%23263759&style=flat" alt="Visitors" />
   <h1>Hi 👋, I'm Mehmet Ali Külek</h1>
-  <h3>Mobile Developer | Crafting solid apps with a touch of Backend API knowledge</h3>
+  <h3></h3>
 </div>
 
 ---
