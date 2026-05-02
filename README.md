@@ -1,43 +1,49 @@
-<h1 align="center">Hi 👋, I'm Mehmet Ali Külek</h1>
-<h3 align="center">A passionate Mobile Developer from Türkiye</h3>
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=MehmetAli-03.MehmetAli-03&countColor=%23263759&style=flat" alt="Visitors" />
+  <h1>Hi 👋, I'm Mehmet Ali Külek</h1>
+  <h3>Mobile Developer | Building seamless digital experiences</h3>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Flutter+%26+Dart+Developer;Native+Android+(Kotlin)+Enthusiast;Building+Cross-Platform+Apps" alt="Typing SVG" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on **Mobile Development (Cross-Platform & Native)**
+---
 
-- 🌱 I’m currently diving deeper into **Jetpack Compose, Flutter and Firebase Architecture**
+### 👨‍💻 About Me
 
-- 📫 How to reach me: **[mkulek719@gmail.com]**
+- 🔭 I’m currently building awesome mobile apps using **Flutter** and **Kotlin**.
+- 🌱 Deep diving into **Jetpack Compose, Clean Architecture, and Firebase**.
+- 💡 I love exploring new technologies and building cross-platform solutions.
+- 📫 Reach me at: **[mkulek719@gmail.com](mailto:mkulek719@gmail.com)**
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/mehmetalikulek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mehmetalikulek/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mkulek719@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Languages & Tools
+
 <p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> 
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/> 
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="database" width="40" height="40"/> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android,cs,firebase,mysql,git,github,vscode,studio&perline=8" />
   </a>
 </p>
 
 ---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehmetAli-03&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MehmetAli-03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetAli-03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehmetAli-03&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
