@@ -1,17 +1,18 @@
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=MehmetAli-03.MehmetAli-03&countColor=%23263759&style=flat" alt="Visitors" />
   <h1>Hi 👋, I'm Mehmet Ali Külek</h1>
-  <h3>Mobile Developer</h3>
+  <h2>📱 Software Engineer & Mobile Developer</h2>
+  <h4>Architecting high-performance Native (Kotlin) & Cross-Platform (Flutter) experiences with robust Backend integrations.</h4>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building awesome mobile apps using **Flutter** and **Kotlin**.
-- 🌱 Deep diving into **Jetpack Compose, Clean Architecture, and Firebase**.
-- ⚙️ Also familiar with building and integrating **Backend APIs**.
-- 💡 I love exploring new technologies and building cross-platform solutions.
+- 🔭 I’m currently building scalable and seamless mobile applications using **Flutter** and **Kotlin**.
+- 🌱 Deep diving into advanced concepts like **Jetpack Compose, Clean Architecture, and Firebase**.
+- ⚙️ Strong foundation in developing and integrating **Backend REST APIs** to power mobile ecosystems.
+- 💡 Passionate about clean code, problem-solving, and building modern digital solutions.
 - 📫 Reach me at: **[mkulek719@gmail.com](mailto:mkulek719@gmail.com)**
 
 ### 🌐 Connect with Me
@@ -25,7 +26,7 @@
   </a>
 </p>
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -37,10 +38,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehmetAli-03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetAli-03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</p>
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MehmetAli-03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetAli-03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehmetAli-03&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
+</div>
