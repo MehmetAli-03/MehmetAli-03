@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=MehmetAli-03.MehmetAli-03&countColor=%23263759&style=flat" alt="Visitors" />
   <h1>Hi 👋, I'm Mehmet Ali Külek</h1>
-  <h3>Mobile Developer | Building seamless digital experiences</h3>
+  <h3>Mobile Developer | Crafting solid apps with a touch of Backend API knowledge</h3>
 </div>
 
 ---
@@ -10,6 +10,7 @@
 
 - 🔭 I’m currently building awesome mobile apps using **Flutter** and **Kotlin**.
 - 🌱 Deep diving into **Jetpack Compose, Clean Architecture, and Firebase**.
+- ⚙️ Also familiar with building and integrating **Backend APIs**.
 - 💡 I love exploring new technologies and building cross-platform solutions.
 - 📫 Reach me at: **[mkulek719@gmail.com](mailto:mkulek719@gmail.com)**
 
