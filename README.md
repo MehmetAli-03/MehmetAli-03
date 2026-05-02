@@ -2,10 +2,6 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=MehmetAli-03.MehmetAli-03&countColor=%23263759&style=flat" alt="Visitors" />
   <h1>Hi 👋, I'm Mehmet Ali Külek</h1>
   <h3>Mobile Developer | Building seamless digital experiences</h3>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Flutter+%26+Dart+Developer;Native+Android+(Kotlin)+Enthusiast;Building+Cross-Platform+Apps" alt="Typing SVG" />
-  </a>
 </div>
 
 ---
