@@ -35,11 +35,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehmetAli-03&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
